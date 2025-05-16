@@ -1,0 +1,262 @@
+{
+  "originUrl": "https://sparkhealth.nz",
+  "lastCrawled": "https://sparkhealth.nz/",
+  "urls": [
+    {
+      "url": "https://sparkhealth.nz/",
+      "source": "SITEMAPS",
+      "targetPath": "/index",
+      "id": "01a4f1f580b8532bef704f138134761da1d3b862"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog",
+      "id": "c9a4f4880fb7f8a3801cb80246eb4186964d5714"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare",
+      "id": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders",
+      "id": "f47f16d291fbff55cf95b648be9938213088072d"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions",
+      "id": "9ca4f8a8091b3f085a300be5259c17b8802786b3"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/category/insights/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/insights",
+      "id": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/category/news-media/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/category/news-media",
+      "id": "a2681afb856c08a9624bd849dec3fbf9de409afd"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values",
+      "id": "910b6f79dee3f49ecd0d7667cfa66be05312db5a"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/digital-tools-to-enable-a-better-primary-care-sector",
+      "id": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery",
+      "id": "7a99e49723417b0786145c474f542721d9451fbd"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/living-well-at-home-in-later-life",
+      "id": "5249fa5160616bf83e160cad9ad18ade0cc49d90"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/retraining-our-health-sector-from-the-outside-in",
+      "id": "88ba215aa8b783763ff88fb8e30da055e4b1facf"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand",
+      "id": "a74617f8226916532ffe4e13dd3f849814ffa6d5"
+    },
+    {
+      "url": "https://sparkhealth.nz/blog/the-power-of-data/",
+      "source": "SITEMAPS",
+      "targetPath": "/blog/the-power-of-data",
+      "id": "1211c788518feed2b7a194a52b909214f8916d96"
+    },
+    {
+      "url": "https://sparkhealth.nz/contact/",
+      "source": "SITEMAPS",
+      "targetPath": "/contact",
+      "id": "747a061eb5d386298a799995d28eb586454c8ebb"
+    },
+    {
+      "url": "https://sparkhealth.nz/legal/",
+      "source": "SITEMAPS",
+      "targetPath": "/legal",
+      "id": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492"
+    },
+    {
+      "url": "https://sparkhealth.nz/legal/privacy-policy/",
+      "source": "SITEMAPS",
+      "targetPath": "/legal/privacy-policy",
+      "id": "8cc88bd09ac49def2647939a6e1118d676c1d20c"
+    },
+    {
+      "url": "https://sparkhealth.nz/our-story/",
+      "source": "SITEMAPS",
+      "targetPath": "/our-story",
+      "id": "4234c141b7d60fa133f996ea77099edb70e60a1c"
+    },
+    {
+      "url": "https://sparkhealth.nz/please-complete-profile/",
+      "source": "SITEMAPS",
+      "targetPath": "/please-complete-profile",
+      "id": "c572962ce69b708fb9b21337bb26baad83503926"
+    },
+    {
+      "url": "https://sparkhealth.nz/services/",
+      "source": "SITEMAPS",
+      "targetPath": "/services",
+      "id": "b7f794b5f743b3c3549d9a4a53e7b391f8c49d05"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions",
+      "id": "d5918667c1db85a5fb62f41736719042df2ba811"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/access-expert-support/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/access-expert-support",
+      "id": "0e72a84febe5c306170493e0f432d17310440349"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/boost-your-technology-project/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/boost-your-technology-project",
+      "id": "7706fc9102e4f0cd515099725218ce1986b550da"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-healthcare-to-the-patient/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/bring-healthcare-to-the-patient",
+      "id": "af18d6ce4d9c54882a095d7535ba9f30869bb55f"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/bring-information-together-in-one-place/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/bring-information-together-in-one-place",
+      "id": "92eff5832a3fb4fc9d9eac9732ba8e52de6256ed"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/build-your-virtual-health-team/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/build-your-virtual-health-team",
+      "id": "add7679aff57ea395008cf6fd1a918fd0db48d21"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/design-future-workplace/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/design-future-workplace",
+      "id": "e4f9d276149e39631551da4e0a56af1b0ecb14a0"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-a-data-health-check/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/get-a-data-health-check",
+      "id": "8083bf1e3f88b0eebcb38f7b8abad83fa7e2283e"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-foundations-right/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/get-foundations-right",
+      "id": "d7fc1ccd5edc10ee6e7f88f731de928b4442d0a6"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/get-the-full-health-picture/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/get-the-full-health-picture",
+      "id": "dc1f35d250362ebd20820aa8cfe81fc1a281e6f4"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/ideas-to-reality/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/ideas-to-reality",
+      "id": "7f42b29cf8066b8812159750b4bfb1deb2c5a5df"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/identify-issues-early/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/identify-issues-early",
+      "id": "cab8e32b8fcc803f6e075feb97811187da1896f9"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/make-sure-your-message-gets-through/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/make-sure-your-message-gets-through",
+      "id": "fa6131c7ea186a07bd49474616c166a5a2182e1d"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/mobilise-future-healthcare/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/mobilise-future-healthcare",
+      "id": "afe003613bb3f4e237a0c33f27af41c01f6f0510"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/plan-for-success/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/plan-for-success",
+      "id": "4de599e6389ca99741263a136ca25b02da975dd6"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/power-round-the-clock-healthcare/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/power-round-the-clock-healthcare",
+      "id": "61f3e82b1985f022d0cd46cf0a4d62cc2e5fbb2b"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/prepare-for-the-unknown/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/prepare-for-the-unknown",
+      "id": "60e4b08d8ed341d4ecbac68f155f8d226a36bc1e"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/protect-your-information/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/protect-your-information",
+      "id": "7f6e9c7d0529c5aecfc997ff2bd371890861b16d"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/remove-the-need-for-hardware/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/remove-the-need-for-hardware",
+      "id": "4187facef70a90808dcb63d090597ca905538734"
+    },
+    {
+      "url": "https://sparkhealth.nz/solutions/source-world-class-technology/",
+      "source": "SITEMAPS",
+      "targetPath": "/solutions/source-world-class-technology",
+      "id": "48ffc9aa9b4fb789a033953ff50057c8c405655e"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "/sitemap_index.xml",
+      "status": "parseSitemapFromUrl (/sitemap_index.xml): Failed to fetch or parse the sitemap. Failed to fetch the sitemap. Failed to parse URL from /sitemap_index.xml"
+    }
+  ]
+}
