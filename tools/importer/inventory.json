@@ -27,11 +27,11 @@
   ],
   "blocks": [
     {
-      "name": "Table (bordered)",
+      "name": "Table (striped & bordered)",
       "cluster": 1,
-      "source": "Table (bordered)",
-      "target": "Table (bordered, tableBordered1)",
-      "key": "tableBordered1",
+      "source": "Table (striped, bordered)",
+      "target": "Table (striped, bordered, tableStripedBordered1)",
+      "key": "tableStripedBordered1",
       "instances": [
         {
           "url": "https://www.spark.co.nz/online/health",
@@ -72,11 +72,11 @@
       ]
     },
     {
-      "name": "Columns",
+      "name": "Cards (no images)",
       "cluster": 4,
-      "source": "Columns",
-      "target": "Columns (columns4)",
-      "key": "columns4",
+      "source": "Cards",
+      "target": "Cards (cardsNoImages4)",
+      "key": "cardsNoImages4",
       "instances": [
         {
           "url": "https://www.spark.co.nz/online/health",
