@@ -1,120 +1,12 @@
 {
-  "originUrl": "https://sparkhealth.nz",
-  "lastCrawled": "https://sparkhealth.nz/",
+  "originUrl": "https://www.spark.co.nz",
+  "lastCrawled": "https://www.spark.co.nz/online/health",
   "urls": [
     {
-      "url": "https://sparkhealth.nz/",
+      "url": "https://www.spark.co.nz/online/health",
       "source": "CRAWL",
-      "targetPath": "/index",
-      "id": "01a4f1f580b8532bef704f138134761da1d3b862"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/",
-      "source": "CRAWL",
-      "targetPath": "/blog",
-      "id": "c9a4f4880fb7f8a3801cb80246eb4186964d5714"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare/",
-      "source": "CRAWL",
-      "targetPath": "/blog/a-complete-overhaul-realising-the-full-potential-of-ai-in-healthcare",
-      "id": "22cc3ecb8fc0bee922eb95c78ab143de2346f9bc"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders/",
-      "source": "CRAWL",
-      "targetPath": "/blog/ai-and-co-design-making-healthcare-tech-accessible-for-older-new-zealanders",
-      "id": "f47f16d291fbff55cf95b648be9938213088072d"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions/",
-      "source": "CRAWL",
-      "targetPath": "/blog/better-healthcare-collaboration-with-end-to-end-meeting-room-solutions",
-      "id": "9ca4f8a8091b3f085a300be5259c17b8802786b3"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/category/insights/",
-      "source": "CRAWL",
-      "targetPath": "/blog/category/insights",
-      "id": "c6e95976d9c42e6665a0f1e23ee318c4cae7b701"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/category/news-media/",
-      "source": "CRAWL",
-      "targetPath": "/blog/category/news-media",
-      "id": "a2681afb856c08a9624bd849dec3fbf9de409afd"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values/",
-      "source": "CRAWL",
-      "targetPath": "/blog/collective-impact-improving-healthcare-through-collaboration-and-shared-values",
-      "id": "910b6f79dee3f49ecd0d7667cfa66be05312db5a"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/digital-tools-to-enable-a-better-primary-care-sector/",
-      "source": "CRAWL",
-      "targetPath": "/blog/digital-tools-to-enable-a-better-primary-care-sector",
-      "id": "b0d79eeaeeb213aa24f98ba57d3510656e5e05a3"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery/",
-      "source": "CRAWL",
-      "targetPath": "/blog/is-your-technology-helping-or-hindering-your-healthcare-delivery",
-      "id": "7a99e49723417b0786145c474f542721d9451fbd"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/living-well-at-home-in-later-life/",
-      "source": "CRAWL",
-      "targetPath": "/blog/living-well-at-home-in-later-life",
-      "id": "5249fa5160616bf83e160cad9ad18ade0cc49d90"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/retraining-our-health-sector-from-the-outside-in/",
-      "source": "CRAWL",
-      "targetPath": "/blog/retraining-our-health-sector-from-the-outside-in",
-      "id": "88ba215aa8b783763ff88fb8e30da055e4b1facf"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand/",
-      "source": "CRAWL",
-      "targetPath": "/blog/satellite-internet-improving-healthcare-delivery-in-rural-new-zealand",
-      "id": "a74617f8226916532ffe4e13dd3f849814ffa6d5"
-    },
-    {
-      "url": "https://sparkhealth.nz/blog/the-power-of-data/",
-      "source": "CRAWL",
-      "targetPath": "/blog/the-power-of-data",
-      "id": "1211c788518feed2b7a194a52b909214f8916d96"
-    },
-    {
-      "url": "https://sparkhealth.nz/contact/",
-      "source": "CRAWL",
-      "targetPath": "/contact",
-      "id": "747a061eb5d386298a799995d28eb586454c8ebb"
-    },
-    {
-      "url": "https://sparkhealth.nz/legal/",
-      "source": "CRAWL",
-      "targetPath": "/legal",
-      "id": "4a517fe52e7afb478e4dd7b6f6624b7d93b6f492"
-    },
-    {
-      "url": "https://sparkhealth.nz/legal/privacy-policy/",
-      "source": "CRAWL",
-      "targetPath": "/legal/privacy-policy",
-      "id": "8cc88bd09ac49def2647939a6e1118d676c1d20c"
-    },
-    {
-      "url": "https://sparkhealth.nz/our-story/",
-      "source": "CRAWL",
-      "targetPath": "/our-story",
-      "id": "4234c141b7d60fa133f996ea77099edb70e60a1c"
-    },
-    {
-      "url": "https://sparkhealth.nz/solutions/",
-      "source": "CRAWL",
-      "targetPath": "/solutions",
-      "id": "d5918667c1db85a5fb62f41736719042df2ba811"
+      "targetPath": "/online/health",
+      "id": "ec46a261b2c58d885553301c33d48a2847fce512"
     }
   ],
   "crawlOptions": {
@@ -127,22 +19,5 @@
     "strategy": "crawl",
     "logger": {}
   },
-  "extractionErrors": [
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-DemiBold.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Regular.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/AvenirNext-Medium.woff2",
-      "status": "content type is not text/html"
-    },
-    {
-      "url": "https://sparkhealth.nz/assets/themes/sparkhealth-theme/_styles/fonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff",
-      "status": "content type is not text/html"
-    }
-  ]
+  "extractionErrors": []
 }
